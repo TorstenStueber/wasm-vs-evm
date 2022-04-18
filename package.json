@@ -1,0 +1,20 @@
+{
+  "name": "contract-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-odd-product": "node ./build.js oddProduct",
+    "build-triangle": "node ./build.js triangleNumbers",
+    "build-sha512": "node ./build.js sha512"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blakejs": "^1.2.1",
+    "solc": "^0.8.13",
+    "wabt": "^1.0.28"
+  },
+  "type": "module"
+}
