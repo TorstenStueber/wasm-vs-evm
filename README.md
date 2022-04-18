@@ -1,4 +1,4 @@
-# Contract Creator
+# Wasm vs EVM Benchmarking Tool
 
 This is a tool to compile smart contracts for benchmarking purposes.
 
