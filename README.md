@@ -31,6 +31,7 @@ This tool is to be used as follows:
 
 - then select one of the projects and run either one of the commands
   - `npm run build-odd-product`
+  - `npm run build-odd-product-write`
   - `npm run build-triangle`
   - `npm run build-sha512`
 
@@ -165,7 +166,7 @@ This section describes how to run the benchmarks using the compiled contracts an
   - in the CONTRACT pulldown ensure that the compiled contract is selected
   - click “Deploy”
     - the local Geth node should mine a new block
-  - the deployed contract will now appear under "Deplozed Contracts"
+  - the deployed contract will now appear under "Deployed Contracts"
     - open it
     - select a function, enter the input values and click the button with the name of the function
       - the local node will mine a new block

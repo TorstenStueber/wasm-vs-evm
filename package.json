@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build-odd-product": "node ./build.js oddProduct",
+    "build-odd-product-storage": "node ./build.js oddProductStorage",
     "build-triangle": "node ./build.js triangleNumbers",
     "build-sha512": "node ./build.js sha512"
   },
